@@ -13,12 +13,12 @@ const contentData = {
     <img src="https://images.unsplash.com/photo-1556767576-5ec41e3b0e9f?ixlib=rb-4.0.1&auto=format&fit=crop&w=600&q=80" alt="Gallery Image 3"/>
     <img src="https://images.unsplash.com/photo-1523413651479-597eb2da0ad6?ixlib=rb-4.0.1&auto=format&fit=crop&w=600&q=80" alt="Gallery Image 4"/>
   </div>`,
-  members: `<h4 style="margin-bottom:10px;">List of prime members & Moderators</h4><ul class="friends-list" id="friendsList">
-    <li>To be updated</li>
-    <li>1.</li>
-    <li>2.</li>
-    <li>3.</li>
-    <li>4.</li>
+  members: `<h4 style="margin-bottom:10px;">Instructions for Members🌟</h4><ul class="friends-list" id="friendsList">
+    <li>Join in the chatwee session for private chats only</li>
+    <li>Sharing password of Members section is not allowed</li>
+    <li>Access to members section can be provided by admins only</li>
+    <li>Any kind of illegal activity and violation of rules is not allowed</li>
+    <li>In case of violation of any rule permanent ban may be imposed without any warning</li>
   </ul>`
 };
 
